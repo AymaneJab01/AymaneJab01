@@ -2,43 +2,46 @@
 
 # Hi, I'm Aymane Jabrane 👋
 
-### Computer Science student · Software developer
+### Computer Engineering student at UPV · EPSA Alcoy
 
-Building useful applications and exploring how software works, from systems programming to interactive interfaces.
+I build web and mobile applications and enjoy understanding how software works under the hood, from operating systems to user interfaces.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_work-2563EB?style=for-the-badge)](https://aymanejab01.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aymanejab01.github.io-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://aymanejab01.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-jabrane-73025726a/)
 
 </div>
 
 ---
 
-## About me
+## 🎓 About me
 
-I'm an undergraduate Computer Science student at **Universitat Politècnica de València (UPV)**. I enjoy turning ideas into working applications and understanding the decisions behind them.
+I'm studying the **Bachelor's Degree in Computer Engineering** (*Grado en Ingeniería Informática*) at the **Universitat Politècnica de València**, on the **Escola Politècnica Superior d'Alcoi (EPSA)** campus.
 
-- **Building:** web applications with Astro and React, and cross-platform interfaces with Flutter.
-- **Exploring:** operating systems, algorithms, networking, and distributed systems.
-- **Practising:** clear code, thoughtful interface design, and reliable API integration.
-- **Languages:** Spanish, French, and English.
+I like taking an idea all the way to a working product: designing the interface, wiring up the data and APIs, and making sure it's reliable and easy to use.
 
-## Selected projects
+- 🛠️ **Building:** web apps with Astro and React, and cross-platform apps with Flutter
+- 📚 **Learning:** operating systems, algorithms, computer networks and distributed systems
+- 🎯 **Focused on:** clean code, thoughtful UI design and solid API integration
+- 🌍 **Languages:** Spanish, French and English
+- 🤝 **Open to:** internships, collaborations and student projects
 
-| Project | What I'm building |
-| :--- | :--- |
-| **SciGlobe** | A platform for exploring scientific publications and space content, with an interactive map, weather data, saved discoveries, and a sky of interactive stars. |
-| **FinTrack** | A Flutter application for managing transactions, budgets, financial goals, and analytics. |
-| **Algorithm Visualizer** | Interactive demonstrations of sorting, hash tables, and pathfinding, with explanations in English, Spanish, and French. |
-| **Weather Dashboard** | A dashboard with current conditions, hourly weather, and a ten-day forecast using Open-Meteo. |
-| **Expense Splitter** | A tool for sharing expenses and calculating settlements between participants. |
+## 🚀 Featured projects
 
-**[Explore my projects on my portfolio →](https://aymanejab01.github.io/)**
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🌍 **SciGlobe** | Explore scientific publications and space content through an interactive map, live weather data, saved discoveries and a sky of clickable stars. | Astro · React |
+| 💰 **FinTrack** | Personal finance app to track transactions, set budgets and goals, and visualise spending analytics. | Flutter · Dart |
+| 📊 **Algorithm Visualizer** | Step-by-step animations of sorting, hash tables and pathfinding, with explanations in English, Spanish and French. | TypeScript |
+| ⛅ **Weather Dashboard** | Current conditions, hourly weather and a 10-day forecast powered by the Open-Meteo API. | TypeScript |
+| 🧾 **Expense Splitter** | Share group expenses and automatically calculate who owes whom. | TypeScript |
 
-## Technologies
+<p align="center">
+  <a href="https://aymanejab01.github.io/"><strong>See all my projects with live demos →</strong></a>
+</p>
 
-These are technologies I use in personal projects and coursework.
+## 🧰 Tech stack
 
-### Languages
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -49,7 +52,7 @@ These are technologies I use in personal projects and coursework.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Web & application development
+**Web & mobile**
 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -58,32 +61,26 @@ These are technologies I use in personal projects and coursework.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Tools
+**Tools & cloud**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 
-## GitHub activity
+## 📈 GitHub activity
 
-<details>
-<summary>View my GitHub statistics</summary>
-
-<br>
-
-![Aymane's public GitHub statistics](https://github-readme-stats.shion.dev/api?username=AymaneJab01&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
-
-![Most used languages in public repositories](https://github-readme-stats.shion.dev/api/top-langs/?username=AymaneJab01&theme=transparent&hide_border=true&layout=compact&count_private=false)
-
-</details>
+<p align="center">
+  <img height="165" alt="Aymane's GitHub statistics" src="https://github-readme-stats.shion.dev/api?username=AymaneJab01&theme=transparent&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AymaneJab01&theme=transparent&hide_border=true&layout=compact&count_private=false" />
+</p>
 
 ---
 
 <div align="center">
 
-**Have a project or an idea to discuss?**
+**Have a project, an internship opportunity or an idea to discuss?**
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/aymane-jabrane-73025726a/)
+[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-jabrane-73025726a/)
 
 </div>
