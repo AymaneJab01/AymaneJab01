@@ -22,7 +22,7 @@ I like taking an idea all the way to a working product: designing the interface,
 - 🛠️ **Building:** web apps with Astro and React, and cross-platform apps with Flutter
 - 📚 **Learning:** operating systems, algorithms, computer networks and distributed systems
 - 🎯 **Focused on:** clean code, thoughtful UI design and solid API integration
-- 🌍 **Languages:** Spanish, French and English
+- 🌍 **Languages:** Spanish, French, Arabic, and English
 - 🤝 **Open to:** internships, collaborations and student projects
 
 ## 🚀 Featured projects
