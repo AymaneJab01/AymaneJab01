@@ -2,7 +2,7 @@
 
 # Hi, I'm Aymane Jabrane 👋
 
-### Computer Engineering student at UPV · EPSA Alcoy
+### Computer Science student at UPV · EPSA Alcoy
 
 I build web and mobile applications and enjoy understanding how software works under the hood, from operating systems to user interfaces.
 
@@ -15,14 +15,14 @@ I build web and mobile applications and enjoy understanding how software works u
 
 ## 🎓 About me
 
-I'm studying the **Bachelor's Degree in Computer Engineering** (*Grado en Ingeniería Informática*) at the **Universitat Politècnica de València**, on the **Escola Politècnica Superior d'Alcoi (EPSA)** campus.
+I'm studying the **Bachelor's Degree in Computer Science** (*Grado en Ingeniería Informática*) at the **Universitat Politècnica de València**, on the **Escola Politècnica Superior d'Alcoi (EPSA)** campus.
 
 I like taking an idea all the way to a working product: designing the interface, wiring up the data and APIs, and making sure it's reliable and easy to use.
 
 - 🛠️ **Building:** web apps with Astro and React, and cross-platform apps with Flutter
 - 📚 **Learning:** operating systems, algorithms, computer networks and distributed systems
 - 🎯 **Focused on:** clean code, thoughtful UI design and solid API integration
-- 🌍 **Languages:** Spanish, French, Arabic, and English
+- 🌍 **Languages:** Spanish, French and English
 - 🤝 **Open to:** internships, collaborations and student projects
 
 ## 🚀 Featured projects
